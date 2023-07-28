@@ -1,0 +1,18 @@
+#lista{
+    display: block;
+    height: 500px;
+    overflow-y: scroll ;
+}
+
+.box-body{
+    height: 600px;
+}
+
+.opt-over {
+    background-color: rgb(219, 12, 12) !important;
+}
+
+.opt-out {
+    background-color: rgb(198, 211, 79);
+    color: white;
+}
